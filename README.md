@@ -3,9 +3,10 @@
  
  #  Getting Started
   The repository consists of 
-  1. the excel file with the macros enabled has the analysis and code for both multiple year stock data(main data) and also alphabet_testing(test data)
-  2. Screenshots for every year on the main data (multiple year stock data)
-  3. A text file with the VBA code.
+  1. the excel file with the macros enabled has the analysis and code alphabet_testing(test data)
+  Note:: I was not able to add the multiple_year_stock_data file as it is a big data set. 
+  2. Screenshots for every year on the main data (multiple year stock data) has been added.
+  3. A text file with the VBA code is added.
   4. A .bas file that is expoted from the excel file and has the code as well.
   
   The project needs Microsoft Excel to run the analysis. Notepad to open the text file.

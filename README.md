@@ -3,7 +3,7 @@
  
  #  Getting Started
   The repository consists of 
-  1. the excel file with the macros enabled has the analysis and code for both multiple year stock data(main data) and also alphabet_texting(test data)
+  1. the excel file with the macros enabled has the analysis and code for both multiple year stock data(main data) and also alphabet_testing(test data)
   2. Screenshots for every year on the main data (multiple year stock data)
   3. A text file with the VBA code.
   4. A .bas file that is expoted from the excel file and has the code as well.
